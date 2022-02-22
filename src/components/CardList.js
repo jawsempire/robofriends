@@ -12,9 +12,9 @@ const CardList = ({robots}) => {
                 {/*  return <Card id = {robots[i].id} name= {robots[i].name} email= {robots[i].email} />
      */
                 
-    if (true) {
-        throw new Error("the humanity!");
-    }    
+    // if (true) {
+    //     throw new Error("the humanity!");
+    // }    
     return (
         <div className="cardList">
             {
