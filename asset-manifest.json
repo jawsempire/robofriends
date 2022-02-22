@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jawsempire/robofriends.git/static/css/main.74228714.chunk.css",
+    "main.js": "/jawsempire/robofriends.git/static/js/main.fbe156d8.chunk.js",
+    "main.js.map": "/jawsempire/robofriends.git/static/js/main.fbe156d8.chunk.js.map",
+    "runtime-main.js": "/jawsempire/robofriends.git/static/js/runtime-main.85b4927a.js",
+    "runtime-main.js.map": "/jawsempire/robofriends.git/static/js/runtime-main.85b4927a.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/jawsempire/robofriends.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5736ae7a.chunk.js": "/jawsempire/robofriends.git/static/js/2.5736ae7a.chunk.js",
+    "static/js/2.5736ae7a.chunk.js.map": "/jawsempire/robofriends.git/static/js/2.5736ae7a.chunk.js.map",
+    "static/js/3.4172a92b.chunk.js": "/jawsempire/robofriends.git/static/js/3.4172a92b.chunk.js",
+    "static/js/3.4172a92b.chunk.js.map": "/jawsempire/robofriends.git/static/js/3.4172a92b.chunk.js.map",
+    "index.html": "/jawsempire/robofriends.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/jawsempire/robofriends.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.74228714.chunk.css.map": "/jawsempire/robofriends.git/static/css/main.74228714.chunk.css.map",
+    "static/js/2.5736ae7a.chunk.js.LICENSE.txt": "/jawsempire/robofriends.git/static/js/2.5736ae7a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jawsempire/robofriends.git/static/media/HoylePersonalUseOnlyRegular-lgOMy.00d90526.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b4927a.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5736ae7a.chunk.js",
+    "static/css/main.74228714.chunk.css",
+    "static/js/main.fbe156d8.chunk.js"
+  ]
+}
