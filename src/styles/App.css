@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Hoyle PERSONAL USE ONLY Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hoyle PERSONAL USE ONLY Regular'), url('HoylePersonalUseOnlyRegular-lgOMy.woff') format('woff');
+    }
+    
+h1 {
+    font-family: 'Hoyle PERSONAL USE ONLY Regular';
+    font-size: 5em;
+    color: rgb(58, 53, 53);
+}
